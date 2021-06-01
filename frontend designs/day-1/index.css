@@ -44,16 +44,14 @@
 
 .detials{
     color: rgb(255, 255, 255);
-    padding-top: 10%;
-    padding-left: 10%;
-    padding-right:22%;
+    padding-right:20%;
     display: flex;
 }
 
 .space{
     padding-top: 10%;
     padding-left: 10%;
-    padding-right:22%;
+    padding-right:10%;
   }
 
 
